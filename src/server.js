@@ -2,7 +2,7 @@ const proffys = [
     {
         name: "André Luiz",
         avatar: "/images/perfil.jpg",
-        whatsapp: "73997665434",
+        whatsapp: "73998221323",
         bio: "Entusiasta das melhores tecnologias de química avançada.Apaixonado por explodir coisas em laboratório e por mudar a vida das pessoas através das experiências. Mais de 200.000 pessoas já passaram por uma das minhas explosões.",
         subject: "Inglês",
         cost: "20",
