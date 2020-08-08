@@ -1,16 +1,4 @@
-const proffys = [
-    {
-        name: "",
-        avatar: "",
-        whatsapp: "",
-        bio: "",
-        subject: "",
-        cost: "",
-        weekday: "",
-        time_from: "",
-        time_to: ""
-    }
-]
+const proffys = [{}]
 
 const subjects = [
     "Artes",
