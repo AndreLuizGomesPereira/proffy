@@ -1,4 +1,4 @@
-const proffys = [{}]
+const proffys = []
 
 const subjects = [
     "Artes",
